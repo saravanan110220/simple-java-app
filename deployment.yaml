@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: yourdockerhubusername/java-app:latest
+        image: saravanan110220/java-app:latest
 
         ---
 apiVersion: v1
